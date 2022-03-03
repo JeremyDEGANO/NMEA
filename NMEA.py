@@ -5,7 +5,6 @@ import pandas as pd
 import pynmea2
 import datetime
 import folium
-from branca.element import Figure
 
 data = {'date':[],'lat':[], 'long':[], 'alt':[]}
 file = ""
